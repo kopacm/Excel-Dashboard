@@ -9,7 +9,7 @@ An interactive Excel dashboard created to provide comprehensive business insight
 
 
 ## Purpose of project
-To demonstrate the methodology behind the creation of the dashboard and the application of Excel formulas, the project began with the analysis of the provided [requirements](/B&J%20Biscuit%20Dashboard%20Requirements.pdf) and [dataset](/B&J%20Biscuit%20Practice%20Dataset.xlsx). The final dashboard can be viewed [here](/B&J%20Biscuit%20Portfolio%20Project.xlsm) or accessed [online](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/ERE2_yM2gs9CpR-DlhgBe2sBfz6ZVljIF6-vyBq-OwcjQQ?e=apADMs). For full functionality, it is recommended to use Excel desktop.
+To demonstrate my methodology behind the creation of the dashboard and the application of Excel formulas, the project began with the analysis of the provided [requirements](/B&J%20Biscuit%20Dashboard%20Requirements.pdf) and [dataset](/B&J%20Biscuit%20Practice%20Dataset.xlsx). The final dashboard can be viewed [here](/B&J%20Biscuit%20Portfolio%20Project.xlsm) or accessed [online](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/ERE2_yM2gs9CpR-DlhgBe2sBfz6ZVljIF6-vyBq-OwcjQQ?e=apADMs). For full functionality, it is recommended to use Excel desktop.
 
 ## 📚 Table of Contents
 - [Features](#features)
