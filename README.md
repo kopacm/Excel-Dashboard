@@ -2,10 +2,15 @@
 # B&J Biscuit Business Analysis Dashboard
 
 
-![Dashboard1](/images/1.png)
+![Dashboard1](/images/20250214144701.png)
 
 ## Project Overview
 An interactive Excel dashboard created to provide comprehensive business insights for B&J Biscuit, focusing on revenue distribution, profitability analysis, and customer demographics. The dashboard enables data-driven decision-making through dynamic visualizations and flexible filtering options.
+
+
+## Purpose of project
+To show my approach of creating dashboard and use of formulas in Excel after receiving [requirements](/B&J%20Buscuit%20Dashboard%20Requirements.pdf) and [dataset](/B&J%20Buscuit%20Practice%20Dataset.xlsx). The result is possible to see [here](/B&J%20Buscuit%20Portfolio%20Project.xlsm) or [online](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/ERE2_yM2gs9CpR-DlhgBe2sBfz6ZVljIF6-vyBq-OwcjQQ?e=apADMs)
+
 
 ## Features
 
@@ -70,11 +75,6 @@ An interactive Excel dashboard created to provide comprehensive business insight
     - Name linked together with `TEXTJOIN`
     - `VLOOOKUP` for creating interactive chart highlighting 
 
-### 🎨 Design Elements
-- Color scheme selected using Adobe Color
-- Professional icons from Flaticon
-- Responsive layout design
-- Clear visual hierarchy
 
 ## Development Process
 
