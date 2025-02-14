@@ -9,63 +9,58 @@ An interactive Excel dashboard created to provide comprehensive business insight
 
 ## Features
 
-### 📊 Revenue Analysis
 <details>
-    <summary>**Multi-dimensional Revenue Distribution**</summary>
-    
-    - Demographic breakdown by age group and gender
-    - Payment method distribution
-    - Geographic revenue share visualization
+    <summary>### 📊 Revenue Analysis</summary>
+
+    - **Multi-dimensional Revenue Distribution**
+        - Demographic breakdown by age group and gender
+        - Payment method distribution
+        - Geographic revenue share visualization
+
+    - **Dynamic Revenue Views**
+        - Toggle between absolute values and percentage contributions
+        - Interactive charts with highlighting capabilities
+        - Custom number formatting (K, M, B) for better readability
+
 </details>
 
 <details>
-    <summary>**Dynamic Revenue Views**</summary>
-    
-    - Toggle between absolute values and percentage contributions
-    - Interactive charts with highlighting capabilities
-    - Custom number formatting (K, M, B) for better readability
+    <summary>### 📈 Performance Tracking</summary>
+
+    - **Temporal Analysis**
+        - Quarter-over-Quarter (QoQ) changes
+        - Month-over-Month (MoM) trends
+        - Week performance
+        - Weekday vs. Weekend comparison
+
+    - **Key Performance Indicators**
+        - Quantity Sold
+        - Total Revenue
+        - Cost of Goods Sold (COGS)
+        - Total Profit
+        - Profit Margin
+
 </details>
 
-### 📈 Performance Tracking
-
 <details>
-    <summary>**Temporal Analysis**</summary>
-    
-    - Quarter-over-Quarter (QoQ) changes
-    - Month-over-Month (MoM) trends
-    - Week performance
-    - Weekday vs. Weekend comparison
-</details>
+    <summary>### 👥 Customer Insights</summary>
 
-<details>
-    <summary>**Key Performance Indicators**</summary>
-    
-    - Quantity Sold
-    - Total Revenue
-    - Cost of Goods Sold (COGS)
-    - Total Profit
-    - Profit Margin
-</details>
-
-### 👥 Customer Insights
-
-<details>
-    <summary>Top 5 revenue-contributing customers</summary>
-    
+    - Top 5 revenue-contributing customers
     - Customer acquisition metrics
     - Age group distribution analysis
     - Geographic performance breakdown
+
 </details>
 
-### 🎯 Profitability Analysis
-
 <details>
-    <summary>Most profitable:</summary>
-    
-    - Brand
-    - Location
-    - Customer segment
-    - Sales representative
+    <summary>### 🎯 Profitability Analysis</summary>
+
+    - Most profitable:
+        - Brand
+        - Location
+        - Customer segment
+        - Sales representative
+
 </details>
 
 ## Technical Implementation
