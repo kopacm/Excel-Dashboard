@@ -11,6 +11,20 @@ An interactive Excel dashboard created to provide comprehensive business insight
 ## Purpose of project
 To show my approach of creating dashboard and use of formulas in Excel after receiving [requirements](/B&J%20Buscuit%20Dashboard%20Requirements.pdf) and [dataset](/B&J%20Buscuit%20Practice%20Dataset.xlsx). The result is possible to see [here](/B&J%20Buscuit%20Portfolio%20Project.xlsm) or [online](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/ERE2_yM2gs9CpR-DlhgBe2sBfz6ZVljIF6-vyBq-OwcjQQ?e=apADMs)
 
+## 📚 Table of Contents
+- [Features](#features)
+    - [📊 Revenue Analysis](#-revenue-analysis)
+    - [📈 Performance Tracking](#-performance-tracking)
+    - [👥 Customer Insights](#-customer-insights)
+    - [🎯 Profitability Analysis](#-profitability-analysis)
+- [Technical Implementation](#technical-implementation)
+    - [📱 Interactive Features](#-interactive-features)
+    - [🛠 Technical Solutions](#-technical-solutions)
+- [Development Process](#development-process)
+    - [Challenges Overcome](#challenges-overcome)
+    - [Best Practices Applied](#best-practices-applied)
+- [Tools & Resources Used](#tools--resources-used)
+- [Future Enhancements](#future-enhancements)
 
 ## Features
 
