@@ -10,57 +10,74 @@ An interactive Excel dashboard created to provide comprehensive business insight
 ## Features
 
 <details>
-    <summary>### 📊 Revenue Analysis</summary>
+    <summary><h3>📊 Revenue Analysis</h3></summary>
 
-    - **Multi-dimensional Revenue Distribution**
-        - Demographic breakdown by age group and gender
-        - Payment method distribution
-        - Geographic revenue share visualization
-
-    - **Dynamic Revenue Views**
-        - Toggle between absolute values and percentage contributions
-        - Interactive charts with highlighting capabilities
-        - Custom number formatting (K, M, B) for better readability
-
+    <ul>
+        <li><strong>Multi-dimensional Revenue Distribution</strong>
+            <ul>
+                <li>Demographic breakdown by age group and gender</li>
+                <li>Payment method distribution</li>
+                <li>Geographic revenue share visualization</li>
+            </ul>
+        </li>
+        <li><strong>Dynamic Revenue Views</strong>
+            <ul>
+                <li>Toggle between absolute values and percentage contributions</li>
+                <li>Interactive charts with highlighting capabilities</li>
+                <li>Custom number formatting (K, M, B) for better readability</li>
+            </ul>
+        </li>
+    </ul>
 </details>
 
 <details>
-    <summary>### 📈 Performance Tracking</summary>
+    <summary><h3>📈 Performance Tracking</h3></summary>
 
-    - **Temporal Analysis**
-        - Quarter-over-Quarter (QoQ) changes
-        - Month-over-Month (MoM) trends
-        - Week performance
-        - Weekday vs. Weekend comparison
-
-    - **Key Performance Indicators**
-        - Quantity Sold
-        - Total Revenue
-        - Cost of Goods Sold (COGS)
-        - Total Profit
-        - Profit Margin
-
+    <ul>
+        <li><strong>Temporal Analysis</strong>
+            <ul>
+                <li>Quarter-over-Quarter (QoQ) changes</li>
+                <li>Month-over-Month (MoM) trends</li>
+                <li>Week performance</li>
+                <li>Weekday vs. Weekend comparison</li>
+            </ul>
+        </li>
+        <li><strong>Key Performance Indicators</strong>
+            <ul>
+                <li>Quantity Sold</li>
+                <li>Total Revenue</li>
+                <li>Cost of Goods Sold (COGS)</li>
+                <li>Total Profit</li>
+                <li>Profit Margin</li>
+            </ul>
+        </li>
+    </ul>
 </details>
 
 <details>
-    <summary>### 👥 Customer Insights</summary>
+    <summary><h3>👥 Customer Insights</h3></summary>
 
-    - Top 5 revenue-contributing customers
-    - Customer acquisition metrics
-    - Age group distribution analysis
-    - Geographic performance breakdown
-
+    <ul>
+        <li>Top 5 revenue-contributing customers</li>
+        <li>Customer acquisition metrics</li>
+        <li>Age group distribution analysis</li>
+        <li>Geographic performance breakdown</li>
+    </ul>
 </details>
 
 <details>
-    <summary>### 🎯 Profitability Analysis</summary>
+    <summary><h3>🎯 Profitability Analysis</h3></summary>
 
-    - Most profitable:
-        - Brand
-        - Location
-        - Customer segment
-        - Sales representative
-
+    <ul>
+        <li>Most profitable:
+            <ul>
+                <li>Brand</li>
+                <li>Location</li>
+                <li>Customer segment</li>
+                <li>Sales representative</li>
+            </ul>
+        </li>
+    </ul>
 </details>
 
 ## Technical Implementation
