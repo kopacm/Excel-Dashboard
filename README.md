@@ -10,42 +10,63 @@ An interactive Excel dashboard created to provide comprehensive business insight
 ## Features
 
 ### 📊 Revenue Analysis
-- **Multi-dimensional Revenue Distribution**
-  - Demographic breakdown by age group and gender
-  - Payment method distribution
-  - Geographic revenue share visualization
+<details>
+    <summary>**Multi-dimensional Revenue Distribution**</summary>
+    
+    - Demographic breakdown by age group and gender
+    - Payment method distribution
+    - Geographic revenue share visualization
+</details>
 
-- **Dynamic Revenue Views**
-  - Toggle between absolute values and percentage contributions
-  - Interactive charts with highlighting capabilities
-  - Custom number formatting (K, M, B) for better readability
+<details>
+    <summary>**Dynamic Revenue Views**</summary>
+    
+    - Toggle between absolute values and percentage contributions
+    - Interactive charts with highlighting capabilities
+    - Custom number formatting (K, M, B) for better readability
+</details>
 
 ### 📈 Performance Tracking
-- **Temporal Analysis**
-  - Quarter-over-Quarter (QoQ) changes
-  - Month-over-Month (MoM) trends
-  - Week performance
-  - Weekday vs. Weekend comparison
 
-- **Key Performance Indicators**
-  - Quantity Sold
-  - Total Revenue
-  - Cost of Goods Sold (COGS)
-  - Total Profit
-  - Profit Margin
+<details>
+    <summary>**Temporal Analysis**</summary>
+    
+    - Quarter-over-Quarter (QoQ) changes
+    - Month-over-Month (MoM) trends
+    - Week performance
+    - Weekday vs. Weekend comparison
+</details>
+
+<details>
+    <summary>**Key Performance Indicators**</summary>
+    
+    - Quantity Sold
+    - Total Revenue
+    - Cost of Goods Sold (COGS)
+    - Total Profit
+    - Profit Margin
+</details>
 
 ### 👥 Customer Insights
-- Top 5 revenue-contributing customers
-- Customer acquisition metrics
-- Age group distribution analysis
-- Geographic performance breakdown
+
+<details>
+    <summary>Top 5 revenue-contributing customers</summary>
+    
+    - Customer acquisition metrics
+    - Age group distribution analysis
+    - Geographic performance breakdown
+</details>
 
 ### 🎯 Profitability Analysis
-- Most profitable:
-  - Brand
-  - Location
-  - Customer segment
-  - Sales representative
+
+<details>
+    <summary>Most profitable:</summary>
+    
+    - Brand
+    - Location
+    - Customer segment
+    - Sales representative
+</details>
 
 ## Technical Implementation
 
